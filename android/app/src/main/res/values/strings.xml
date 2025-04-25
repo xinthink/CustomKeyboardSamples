@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">安全键盘</string>
+    <string name="show_keyboard">显示键盘</string>
+    <string name="hide_keyboard">隐藏键盘</string>
+    <string name="enter_password">请输入密码</string>
+    <string name="clear">清除</string>
+    <string name="done">完成</string>
+    <string name="secure_input_demo">安全输入演示</string>
+</resources>
